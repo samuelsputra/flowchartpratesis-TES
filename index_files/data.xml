@@ -1,0 +1,2637 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisioDocument>
+	<DocumentProperties>
+		<Title></Title>
+		<HyperlinkBase href=""></HyperlinkBase>
+	</DocumentProperties>
+	<Pages>
+		<Page ID="0" Name="Page-1" NameU="Page-1">
+			<Layer IX="0">
+				<Name>Flowchart</Name>
+				<NameUniv>Flowchart</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Layer IX="1">
+				<Name>Connector</Name>
+				<NameUniv>Connector</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Shapes>
+				<Shape ID="108" UniqueID="{DA54546D-327D-4685-9CFD-F83C8FA1943D}" Name="Sheet.108" NameU="Sheet.108">
+					<Text>TEST COMPANY</Text>
+					<XForm>
+						<PinX Unit="IN">2.875000000000000</PinX>
+						<PinY Unit="IN">3.875000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="1" UniqueID="{F854416E-D420-48FD-9407-28579685AA5D}" Name="Vertical holder" NameU="Vertical holder" Master="0">
+					<Text>
+					</Text>
+					<XForm>
+						<PinX Unit="IN">-2.937500000000000</PinX>
+						<PinY Unit="IN">11.000000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="67" UniqueID="{B3157F5F-B155-433A-9B36-F5D70ED11332}" Name="Functional band.67" NameU="Functional band.67" Master="2">
+					<XForm>
+						<PinX Unit="IN">3.109400000000000</PinX>
+						<PinY Unit="IN">10.250000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="26" UniqueID="{0875E3D7-C665-403E-9BA9-F941C916DBB3}" Name="Functional band.26" NameU="Functional band.26" Master="2">
+					<Text>Head Dept</Text>
+					<XForm>
+						<PinX Unit="IN">0.203100000000000</PinX>
+						<PinY Unit="IN">10.250000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="5" UniqueID="{329C3235-77ED-4C2B-BF56-7FA2E04F756B}" Name="Functional band" NameU="Functional band" Master="2">
+					<Text>Commercial</Text>
+					<XForm>
+						<PinX Unit="IN">-2.687500000000000</PinX>
+						<PinY Unit="IN">10.250000000000000</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute SO X001</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute SO X001</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="14" UniqueID="{F3609026-4309-4A07-8104-37A3FD49E45D}" Name="Functional band.14" NameU="Functional band.14" Master="2">
+					<Text>Finance / Accounting</Text>
+					<XForm>
+						<PinX Unit="IN">3.242300000000000</PinX>
+						<PinY Unit="IN">10.250000000000000</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute GL X001</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute GL X001</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="11" UniqueID="{D8CC9409-78D6-4960-9397-1CE7A09FE7ED}" Name="Functional band.11" NameU="Functional band.11" Master="2">
+					<Text>Management</Text>
+					<XForm>
+						<PinX Unit="IN">1.703100000000000</PinX>
+						<PinY Unit="IN">10.250000000000000</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute PO M094</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute PO M094</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="8" UniqueID="{92AE2146-E8FD-4F8B-9977-8F9912C8EC95}" Name="Functional band.8" NameU="Functional band.8" Master="2">
+					<Text>Operation</Text>
+					<XForm>
+						<PinX Unit="IN">-1.296900000000000</PinX>
+						<PinY Unit="IN">10.250000000000000</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute PO X001</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute PO X001</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="19" UniqueID="{92625C46-CB29-4F34-B7C9-2D7FD4BDAA91}" Name="Process.19" NameU="Process.19" Master="3">
+					<Text>Update PO</Text>
+					<XForm>
+						<PinX Unit="IN">-0.562500000000000</PinX>
+						<PinY Unit="IN">1.738700000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute PO M006</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute PO M006</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="20" UniqueID="{04A62546-B87D-4206-BD56-1AC133EB63E9}" Name="Control transfer" NameU="Control transfer" Master="4">
+					<XForm>
+						<PinX Unit="IN_F">-0.562500000000000</PinX>
+						<PinY Unit="IN_F">2.103762500000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="21" UniqueID="{A9824FC5-4D5E-44B9-B857-427A3C082363}" Name="Control transfer.21" NameU="Control transfer.21" Master="4">
+					<XForm>
+						<PinX Unit="IN">-0.562500000000000</PinX>
+						<PinY Unit="IN_F">1.322462500000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="22" UniqueID="{B168358A-8624-4245-A0D2-4E58EC1B89A5}" Name="Process.22" NameU="Process.22" Master="3">
+					<Text>Select Payment</Text>
+					<XForm>
+						<PinX Unit="IN">4.547100000000000</PinX>
+						<PinY Unit="IN">-0.062500000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute AP T003</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute AP T003</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="25" UniqueID="{4D14DE57-9BA9-47BB-B8E3-7CAD118C540D}" Name="Document" NameU="Document" Master="6">
+					<Text>
+
+Check PO Lines / COA
+
+</Text>
+					<XForm>
+						<PinX Unit="IN">4.547000000000001</PinX>
+						<PinY Unit="IN">2.593700000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute PO M006</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute PO M006</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="31" UniqueID="{9928B608-A618-4C74-B28C-0E4C20B3E1BF}" Name="Decision" NameU="Decision" Master="7">
+					<Text>
+Approve SO
+</Text>
+					<XForm>
+						<PinX Unit="IN">1.027300000000000</PinX>
+						<PinY Unit="IN">8.375000000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute SO M049</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute SO M049</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="30" UniqueID="{502E18EE-4A98-485A-8B64-43DE40AC39B7}" Name="Control transfer.30" NameU="Control transfer.30" Master="4">
+					<XForm>
+						<PinX Unit="IN_F">-0.572318750000000</PinX>
+						<PinY Unit="IN_F">8.375000000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="33" UniqueID="{322E7C19-86E9-4B1A-BCFB-6D837667423B}" Name="Process.33" NameU="Process.33" Master="3">
+					<Text>Despatch SO</Text>
+					<XForm>
+						<PinX Unit="IN">4.547200000000000</PinX>
+						<PinY Unit="IN">6.906200000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute SO M287</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute SO M287</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="34" UniqueID="{041F763B-C63C-4D86-91B7-998362076960}" Name="Process.34" NameU="Process.34" Master="3">
+					<Text>Update SO</Text>
+					<XForm>
+						<PinX Unit="IN">4.547200000000000</PinX>
+						<PinY Unit="IN">5.468800000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute SO T017</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute SO T017</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="35" UniqueID="{B0EB2732-6E86-4F62-A508-28A48D71365F}" Name="Process.35" NameU="Process.35" Master="3">
+					<Text>Print Invoice</Text>
+					<XForm>
+						<PinX Unit="IN">4.547200000000000</PinX>
+						<PinY Unit="IN">6.187600000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute SO R100</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute SO R100</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="38" UniqueID="{7DBB72E4-C2C7-4DC2-9594-08D82211227A}" Name="Control transfer.38" NameU="Control transfer.38" Master="4">
+					<XForm>
+						<PinX Unit="IN_F">4.547200000000000</PinX>
+						<PinY Unit="IN_F">6.546900000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="39" UniqueID="{D34FE207-58B3-4394-9409-31EBCCEF2DA4}" Name="Control transfer.39" NameU="Control transfer.39" Master="4">
+					<XForm>
+						<PinX Unit="IN_F">4.547200000000000</PinX>
+						<PinY Unit="IN_F">5.828200000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="42" UniqueID="{A4345E96-243C-43E0-85D7-4F02C8AC92DA}" Name="Process.42" NameU="Process.42" Master="3">
+					<Text>Modify PR</Text>
+					<XForm>
+						<PinX Unit="IN">-0.546900000000000</PinX>
+						<PinY Unit="IN">4.875000000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute PO M094</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute PO M094</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="43" UniqueID="{3B7D954C-77B8-400E-936E-C9738AA83570}" Name="Decision.43" NameU="Decision.43" Master="7">
+					<Text>
+Approve PR
+</Text>
+					<XForm>
+						<PinX Unit="IN">2.437500000000000</PinX>
+						<PinY Unit="IN">4.875000000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute PO M094</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute PO M094</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="44" UniqueID="{D0F43161-91BB-40AC-A138-2872FE613640}" Name="Control transfer.44" NameU="Control transfer.44" Master="4">
+					<XForm>
+						<PinX Unit="IN">0.203096875000000</PinX>
+						<PinY Unit="IN_F">6.000000000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="41" UniqueID="{F5B2D9AD-CE8E-4626-9143-0DBC75E3EC3F}" Name="Decision.41" NameU="Decision.41" Master="7">
+					<Text>
+Approve PR
+</Text>
+					<XForm>
+						<PinX Unit="IN">1.062500000000000</PinX>
+						<PinY Unit="IN">6.000000000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute PO M094</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute PO M094</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="47" UniqueID="{39AB6517-BEDA-4576-8764-AC3804EBD581}" Name="Document.47" NameU="Document.47" Master="6">
+					<Text>Print PO</Text>
+					<XForm>
+						<PinX Unit="IN">-0.546900000000000</PinX>
+						<PinY Unit="IN">3.500000000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute PO R052</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute PO R052</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="48" UniqueID="{FF18943F-E3BB-44C7-8924-FC3C3AF9521A}" Name="Dynamic connector.48" NameU="Dynamic connector.48" Master="8">
+					<XForm>
+						<PinX Unit="IN">0.945300000000000</PinX>
+						<PinY Unit="IN">4.062500000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="51" UniqueID="{A1561DC7-15CD-4FDA-A4F5-3D692C762D24}" Name="Sheet.51" NameU="Sheet.51">
+					<Text>PRATESIS - TES Procedures</Text>
+					<XForm>
+						<PinX Unit="IN">2.875000000000000</PinX>
+						<PinY Unit="IN">10.625000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="32" UniqueID="{FD27707E-057C-4CF6-9770-CD8DA12F1AC6}" Name="Control transfer.32" NameU="Control transfer.32" Master="4">
+					<XForm>
+						<PinX Unit="IN_F">4.547100000000000</PinX>
+						<PinY Unit="IN_F">7.583331250000001</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="52" UniqueID="{A6C65662-1F13-444E-9AC7-6A1AF30ACC6E}" Name="Manual operation" NameU="Manual operation" Master="13">
+					<Text>
+
+
+Check SO Lines / COA
+
+
+</Text>
+					<XForm>
+						<PinX Unit="IN">4.547000000000001</PinX>
+						<PinY Unit="IN">8.375000000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute ZPRA E008</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute ZPRA E008</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="57" UniqueID="{B50EF082-AC8E-440B-A454-225985675BF2}" Name="Manual operation.57" NameU="Manual operation.57" Master="13">
+					<Text>AR Adjust</Text>
+					<XForm>
+						<PinX Unit="IN">5.105500000000000</PinX>
+						<PinY Unit="IN">4.562500000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute AR T013</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute AR T013</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="59" UniqueID="{48CD66A8-E409-4170-B07A-28BBD8303BAB}" Name="Manual operation.59" NameU="Manual operation.59" Master="13">
+					<Text>Maintain Fixed Asset</Text>
+					<XForm>
+						<PinX Unit="IN">6.949700000000000</PinX>
+						<PinY Unit="IN">9.000000000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute FA M007</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute FA M007</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="60" UniqueID="{1440195A-993B-4C2A-84A1-F4853CC460F0}" Name="Control transfer.60" NameU="Control transfer.60" Master="4">
+					<XForm>
+						<PinX Unit="IN_F">4.826350000000000</PinX>
+						<PinY Unit="IN_F">5.031262500000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="61" UniqueID="{929297C0-864B-46EB-99DA-D43FD1A8BF07}" Name="Manual operation.61" NameU="Manual operation.61" Master="13">
+					<Text>Run Depreciation</Text>
+					<XForm>
+						<PinX Unit="IN">6.949700000000000</PinX>
+						<PinY Unit="IN">8.250000000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute FA T001</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute FA T001</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="62" UniqueID="{2C2666D9-BD2F-4BF0-A44C-6DFAFEF67B0F}" Name="Data" NameU="Data" Master="5">
+					<Text>Maintain Project Detail</Text>
+					<XForm>
+						<PinX Unit="IN">6.949700000000000</PinX>
+						<PinY Unit="IN">7.500000000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute PROJ M117</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute PROJ M117</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="63" UniqueID="{A8F5338C-F7B1-4B3C-90E8-3CE557463E2F}" Name="Control transfer.63" NameU="Control transfer.63" Master="4">
+					<XForm>
+						<PinX Unit="IN">6.949700000000000</PinX>
+						<PinY Unit="IN_F">8.625000000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="64" UniqueID="{01462498-51B1-4140-9CB8-B3A84EBDC009}" Name="Manual input" NameU="Manual input" Master="14">
+					<Text>Normal JE</Text>
+					<XForm>
+						<PinX Unit="IN">7.615600000000001</PinX>
+						<PinY Unit="IN">4.722200000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute GL T007</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute GL T007</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="65" UniqueID="{AA5531AC-89CB-4668-AF6A-4156A5E731A2}" Name="Manual input.65" NameU="Manual input.65" Master="14">
+					<Text>Standing JE</Text>
+					<XForm>
+						<PinX Unit="IN">6.375100000000000</PinX>
+						<PinY Unit="IN">4.703100000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute GL M025</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute GL M025</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="66" UniqueID="{A2D3F6C6-F5E1-42EA-983D-EC76CE33A63E}" Name="Manual input.66" NameU="Manual input.66" Master="14">
+					<Text>Bank Revaluation</Text>
+					<XForm>
+						<PinX Unit="IN">7.625000000000000</PinX>
+						<PinY Unit="IN">6.500000000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute AP T028</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute AP T028</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="56" UniqueID="{22B2FD53-C558-4324-AE33-56561B414D62}" Name="Manual input.56" NameU="Manual input.56" Master="14">
+					<Text>GL Maint</Text>
+					<XForm>
+						<PinX Unit="IN">6.375100000000000</PinX>
+						<PinY Unit="IN">3.715600000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute GL M001</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute GL M001</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="58" UniqueID="{0E98CD9A-1E0A-4E70-A9B3-2BD394D4C46B}" Name="Data.58" NameU="Data.58" Master="5">
+					<Text>
+Entry SO
+</Text>
+					<XForm>
+						<PinX Unit="IN">-2.000000000000000</PinX>
+						<PinY Unit="IN">8.375000000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute SO M001</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute SO M001</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="29" UniqueID="{6A82DAE2-3720-4DC9-AF52-0C79D0B78580}" Name="Data.29" NameU="Data.29" Master="5">
+					<Text>
+Entry PR
+</Text>
+					<XForm>
+						<PinX Unit="IN">-0.531300000000000</PinX>
+						<PinY Unit="IN">6.000000000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute PO M035</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute PO M035</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="40" UniqueID="{A71E36C7-2A9F-4AFD-B794-59546EB6EDE2}" Name="Data.40" NameU="Data.40" Master="5">
+					<Text>
+Invoice Entry
+</Text>
+					<XForm>
+						<PinX Unit="IN">-0.562500000000000</PinX>
+						<PinY Unit="IN">0.875000000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute AP T020</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute AP T020</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="18" UniqueID="{31511ADE-13C4-493E-85D1-82E611FB4AC6}" Name="Process.18" NameU="Process.18" Master="3">
+					<Text>
+Cash Receipt
+</Text>
+					<XForm>
+						<PinX Unit="IN">4.000000000000000</PinX>
+						<PinY Unit="IN">4.562500000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute AR T052</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute AR T052</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="70" UniqueID="{6AC27532-F14D-4676-A7DA-5E2894733827}" Name="Direct data" NameU="Direct data" Master="15">
+					<Text>PO REPORTS</Text>
+					<XForm>
+						<PinX Unit="IN">-0.585900000000000</PinX>
+						<PinY Unit="IN">-0.012100000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute PO X049</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute PO X049</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="71" UniqueID="{9D5F7E80-F253-45B8-A57E-AD19B0B0EF6A}" Name="Direct data.71" NameU="Direct data.71" Master="15">
+					<Text>SO REPORTS</Text>
+					<XForm>
+						<PinX Unit="IN">-2.062500000000000</PinX>
+						<PinY Unit="IN">0.000000000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute SO X116</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute SO X116</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="72" UniqueID="{6A965AC0-49A3-43D9-AC3E-22109C691A8C}" Name="Direct data.72" NameU="Direct data.72" Master="15">
+					<Text>GL REPORTS</Text>
+					<XForm>
+						<PinX Unit="IN">7.761700000000000</PinX>
+						<PinY Unit="IN">2.000000000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute GL R034</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute GL R034</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="73" UniqueID="{4ED79611-E67A-42BF-B7BA-FDF7FAF0A52A}" Name="Direct data.73" NameU="Direct data.73" Master="15">
+					<Text>PROJECT REPORTS</Text>
+					<XForm>
+						<PinX Unit="IN">6.101600000000000</PinX>
+						<PinY Unit="IN">1.000000000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute PROJ X025</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute PROJ X025</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="74" UniqueID="{E41B6B24-6051-45EE-832A-F7B5E50CD542}" Name="Direct data.74" NameU="Direct data.74" Master="15">
+					<Text>AR REPORTS</Text>
+					<XForm>
+						<PinX Unit="IN">6.101600000000000</PinX>
+						<PinY Unit="IN">2.000000000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute AR X083</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute AR X083</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="75" UniqueID="{636E2AE9-4A9B-4AE9-B0DF-F4AB2A2E6B8E}" Name="Direct data.75" NameU="Direct data.75" Master="15">
+					<Text>AP REPORTS</Text>
+					<XForm>
+						<PinX Unit="IN">7.761700000000000</PinX>
+						<PinY Unit="IN">1.000000000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute AP X030</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute AP X030</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="76" UniqueID="{72AAFD18-6BF6-443A-A5E4-A00CDAE6E5EC}" Name="Manual input.76" NameU="Manual input.76" Master="14">
+					<Text>CRM</Text>
+					<XForm>
+						<PinX Unit="IN">-2.000000000000000</PinX>
+						<PinY Unit="IN">9.281200000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute CRM M001</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute CRM M001</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="36" UniqueID="{FA625B43-D977-4F59-A447-5A563EA78F29}" Name="Control transfer.36" NameU="Control transfer.36" Master="4">
+					<XForm>
+						<PinX Unit="IN">2.804731250000001</PinX>
+						<PinY Unit="IN_F">8.375000000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="37" UniqueID="{DF32B631-ED95-4BD2-86E1-7324E537EC34}" Name="Manual input.37" NameU="Manual input.37" Master="14">
+					<Text>AR
+MAINT</Text>
+					<XForm>
+						<PinX Unit="IN">-1.988300000000000</PinX>
+						<PinY Unit="IN">1.113700000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute AR M001</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute AR M001</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="77" UniqueID="{285DA6EA-28C9-44BA-9A09-633422C33ACB}" Name="Manual input.77" NameU="Manual input.77" Master="14">
+					<Text>AP
+MAINT</Text>
+					<XForm>
+						<PinX Unit="IN">-0.531300000000000</PinX>
+						<PinY Unit="IN">6.875000000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute AP M001</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute AP M001</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="78" UniqueID="{63F34DB9-A4B4-49BC-91F7-9DB196325CFA}" Name="Terminator" NameU="Terminator" Master="16">
+					<Text>Process Payment</Text>
+					<XForm>
+						<PinX Unit="IN">4.000000000000000</PinX>
+						<PinY Unit="IN">-1.000000000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute AP T002</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute AP T002</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="79" UniqueID="{74205C6D-B955-44BE-B5EA-6C512B53BCFA}" Name="Control transfer.79" NameU="Control transfer.79" Master="4">
+					<XForm>
+						<PinX Unit="IN_F">4.273550000000000</PinX>
+						<PinY Unit="IN_F">-0.518668750000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="80" UniqueID="{60FB05B4-F120-4C9C-A68E-CB7D3262F3BA}" Name="Manual input.80" NameU="Manual input.80" Master="14">
+					<Text>AR Revaluation</Text>
+					<XForm>
+						<PinX Unit="IN">7.615600000000001</PinX>
+						<PinY Unit="IN">5.625000000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute AR T035</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute AR T035</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="81" UniqueID="{18761FBC-FA9D-4CD6-B99D-148B5FF65990}" Name="Manual input.81" NameU="Manual input.81" Master="14">
+					<Text>AP Revaluation</Text>
+					<XForm>
+						<PinX Unit="IN">6.371200000000000</PinX>
+						<PinY Unit="IN">5.625000000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute AP T021</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute AP T021</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="82" UniqueID="{CF1E42F0-A826-4E55-A518-90B9D4C16FA0}" Name="Manual input.82" NameU="Manual input.82" Master="14">
+					<Text>GL Details</Text>
+					<XForm>
+						<PinX Unit="IN">7.625000000000000</PinX>
+						<PinY Unit="IN">3.715600000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute GL E009</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute GL E009</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="83" UniqueID="{2F72AEFF-30FF-419F-A4AE-F8710E56B924}" Name="Data.83" NameU="Data.83" Master="5">
+					<Text>Import Normal JE</Text>
+					<XForm>
+						<PinX Unit="IN">7.062500000000000</PinX>
+						<PinY Unit="IN">2.889099999999999</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute GL T009</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute GL T009</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="84" UniqueID="{5DD4831E-E057-44B9-8178-7234D94296C6}" Name="Manual input.84" NameU="Manual input.84" Master="14">
+					<Text>Inventory</Text>
+					<XForm>
+						<PinX Unit="IN">6.371200000000000</PinX>
+						<PinY Unit="IN">6.500000000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute INV M138</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute INV M138</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="85" UniqueID="{0C264395-B2A3-4E3F-BFB1-D84B81620B2C}" Name="Direct data.85" NameU="Direct data.85" Master="15">
+					<Text>INVENTORY REPORTS</Text>
+					<XForm>
+						<PinX Unit="IN">6.101600000000000</PinX>
+						<PinY Unit="IN">-0.031300000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute INV X242</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute INV X242</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="86" UniqueID="{34158F0B-45C1-4A6E-BA5B-02D75097BCB8}" Name="Direct data.86" NameU="Direct data.86" Master="15">
+					<Text>OTHER REPORTS</Text>
+					<XForm>
+						<PinX Unit="IN">7.761700000000000</PinX>
+						<PinY Unit="IN">-0.031300000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute GL X050</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute GL X050</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="55" UniqueID="{3F4D7CD6-CDBE-4167-887E-BABCD0501BED}" Name="Control transfer.55" NameU="Control transfer.55" Master="4">
+					<XForm>
+						<PinX Unit="IN">4.273600000000000</PinX>
+						<PinY Unit="IN_F">5.031254687500001</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="88" UniqueID="{521102DE-B2CF-4ABE-8E32-32318D6F97DF}" Name="Manual operation.88" NameU="Manual operation.88" Master="13">
+					<Text>AP Adjust</Text>
+					<XForm>
+						<PinX Unit="IN">5.156300000000000</PinX>
+						<PinY Unit="IN">-1.000000000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute AP T011</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute AP T011</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="89" UniqueID="{64112D4C-5A10-4BBE-A88C-CC6F5CB8242D}" Name="Predefined process" NameU="Predefined process" Master="17">
+					<Text>Edit SO</Text>
+					<XForm>
+						<PinX Unit="IN">-2.000000000000000</PinX>
+						<PinY Unit="IN">7.375000000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute SO M053</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute SO M053</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="90" UniqueID="{12131B81-FD9F-4131-9899-A9C57807BA64}" Name="Dynamic connector.90" NameU="Dynamic connector.90" Master="8">
+					<XForm>
+						<PinX Unit="IN">-0.236350000000000</PinX>
+						<PinY Unit="IN">7.625000000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="54" UniqueID="{DC2B87DA-E4E7-49E8-8DBD-3439D658E387}" Name="Document.54" NameU="Document.54" Master="6">
+					<Text>Print SO</Text>
+					<XForm>
+						<PinX Unit="IN">-2.000000000000000</PinX>
+						<PinY Unit="IN">6.250000000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute ZUSR R017</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute ZUSR R017</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="91" UniqueID="{4B8CB5EE-9273-4D24-9EA2-468C43819EBE}" Name="Sheet.91" NameU="Sheet.91">
+					<Text>YES</Text>
+					<XForm>
+						<PinX Unit="IN">0.437500000000000</PinX>
+						<PinY Unit="IN">5.500000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="92" UniqueID="{B4D35FC2-61D9-44C6-B39C-A3FA63C85908}" Name="Sheet.92" NameU="Sheet.92">
+					<Text>NO</Text>
+					<XForm>
+						<PinX Unit="IN">1.250000000000000</PinX>
+						<PinY Unit="IN">7.625000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="93" UniqueID="{7BEE7A9A-3762-443F-A13D-65A400DA0B76}" Name="Sheet.93" NameU="Sheet.93">
+					<Text>YES</Text>
+					<XForm>
+						<PinX Unit="IN">-0.234400000000000</PinX>
+						<PinY Unit="IN">4.062500000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="95" UniqueID="{0C2A3B5F-A26B-4595-A251-35B0B61298D2}" Name="Sheet.95" NameU="Sheet.95">
+					<Text>NO</Text>
+					<XForm>
+						<PinX Unit="IN">-0.906300000000000</PinX>
+						<PinY Unit="IN">4.437500000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="96" UniqueID="{AE78129F-0E8B-4E9B-9C92-7FBFEACC2D44}" Name="Sheet.96" NameU="Sheet.96">
+					<Text>YES</Text>
+					<XForm>
+						<PinX Unit="IN">2.640700000000000</PinX>
+						<PinY Unit="IN">8.562500000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="46" UniqueID="{AFD78032-D01B-4527-99F5-529CC1A277FF}" Name="Control transfer.46" NameU="Control transfer.46" Master="4">
+					<XForm>
+						<PinX Unit="IN">0.882800000000000</PinX>
+						<PinY Unit="IN_F">4.875000000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="49" UniqueID="{34478256-BD6C-44AF-BA94-3248F31F8DCD}" Name="Control transfer.49" NameU="Control transfer.49" Master="4">
+					<XForm>
+						<PinX Unit="IN">-0.546900000000000</PinX>
+						<PinY Unit="IN_F">4.453112500000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="53" UniqueID="{13109A91-A2D9-4585-850E-E619A8DA7C3C}" Name="Control transfer.53" NameU="Control transfer.53" Master="4">
+					<XForm>
+						<PinX Unit="IN">-0.566431250000000</PinX>
+						<PinY Unit="IN">7.875000000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="94" UniqueID="{D9C83BC9-EBDC-4915-996C-B8FB25BE51DC}" Name="Control transfer.94" NameU="Control transfer.94" Master="4">
+					<XForm>
+						<PinX Unit="IN">0.507800000000000</PinX>
+						<PinY Unit="IN_F">5.187500000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="97" UniqueID="{59D1C4B0-C7A2-4AD0-BAB1-557799E39D25}" Name="Control transfer.97" NameU="Control transfer.97" Master="4">
+					<XForm>
+						<PinX Unit="IN">0.945300000000000</PinX>
+						<PinY Unit="IN_F">4.250000000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="98" UniqueID="{0BDA0BF0-3BBA-4B25-932A-6C8944843160}" Name="Control transfer.98" NameU="Control transfer.98" Master="4">
+					<XForm>
+						<PinX Unit="IN_F">2.787222726026677</PinX>
+						<PinY Unit="IN_F">7.374999461348975</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="99" UniqueID="{079DDA49-9A9F-4FEA-BD46-B32AD041F9B2}" Name="Sheet.99" NameU="Sheet.99">
+					<Text>YES</Text>
+					<XForm>
+						<PinX Unit="IN">4.781400000000000</PinX>
+						<PinY Unit="IN">7.875000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="100" UniqueID="{6C03D2B9-CC25-48A1-A383-DC5A2D08C119}" Name="Predefined process.100" NameU="Predefined process.100" Master="17">
+					<Text>
+Edit / Receipt PO
+</Text>
+					<XForm>
+						<PinX Unit="IN">-0.562500000000000</PinX>
+						<PinY Unit="IN">2.593800000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute PO M006</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute PO M006</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="101" UniqueID="{E327DB76-4FC7-43CE-96BC-D361C8F9C0F1}" Name="Document.101" NameU="Document.101" Master="6">
+					<Text>Print Finished SO</Text>
+					<XForm>
+						<PinX Unit="IN">-1.988300000000000</PinX>
+						<PinY Unit="IN">2.062500000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute ZUSR R019</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute ZUSR R019</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="50" UniqueID="{9E033D01-C7E4-4A19-95B1-614F4FC9A75C}" Name="Process.50" NameU="Process.50" Master="3">
+					<Text>Check / Post Inv</Text>
+					<XForm>
+						<PinX Unit="IN">4.547000000000001</PinX>
+						<PinY Unit="IN">0.875000000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address>pronto: "." bmsmenu -execute AP T032</HLURL:Address>
+										<HLURL:SubAddress></HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>pronto: "." bmsmenu -execute AP T032</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="87" UniqueID="{17B9E1C8-2937-4C3D-A80E-5D09CCEF5B7D}" Name="Control transfer.87" NameU="Control transfer.87" Master="4">
+					<XForm>
+						<PinX Unit="IN">4.547050000000001</PinX>
+						<PinY Unit="IN_F">0.406250000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="24" UniqueID="{7A6C770F-B2AF-4464-A8F5-30B9E45B0BF4}" Name="Control transfer.24" NameU="Control transfer.24" Master="4">
+					<XForm>
+						<PinX Unit="IN_F">1.992230729166667</PinX>
+						<PinY Unit="IN_F">2.593750000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="45" UniqueID="{5CEAF3FE-E58F-431F-BE1B-AF94B892B8A9}" Name="Control transfer.45" NameU="Control transfer.45" Master="4">
+					<XForm>
+						<PinX Unit="IN">1.992250000000000</PinX>
+						<PinY Unit="IN_F">0.875000000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="102" UniqueID="{C54B3742-F220-488F-B9C7-EFC8C7B74700}" Name="Dynamic connector.102" NameU="Dynamic connector.102" Master="8">
+					<XForm>
+						<PinX Unit="IN">2.250050000000000</PinX>
+						<PinY Unit="IN">3.234340506881300</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>1</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="23" UniqueID="{197058B7-73E0-4A3A-85BD-AF90A26B9DEF}" Name="Control transfer.23" NameU="Control transfer.23" Master="4">
+					<XForm>
+						<PinX Unit="IN">4.851700000000000</PinX>
+						<PinY Unit="IN_F">-0.531268750000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="103" UniqueID="{2690D213-2B9F-49EB-9AFD-1B679091C820}" Name="Sheet.103" NameU="Sheet.103">
+					<Text>MANUAL PROCESSES</Text>
+					<XForm>
+						<PinX Unit="IN">6.937500000000000</PinX>
+						<PinY Unit="IN">9.500000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="104" UniqueID="{8DD6219C-36F8-4F25-BB15-9839F25D6A6D}" Name="Control transfer.104" NameU="Control transfer.104" Master="4">
+					<XForm>
+						<PinX Unit="IN">-0.531300000000000</PinX>
+						<PinY Unit="IN_F">6.355475000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="105" UniqueID="{04C7CED0-95AC-409B-B9E8-A2AEC2A24631}" Name="Control transfer.105" NameU="Control transfer.105" Master="4">
+					<XForm>
+						<PinX Unit="IN">-2.000000000000000</PinX>
+						<PinY Unit="IN_F">8.765612500000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="106" UniqueID="{EA4E4F26-60A9-4F60-A0DA-FA693FE00FE5}" Name="Control transfer.106" NameU="Control transfer.106" Master="4">
+					<XForm>
+						<PinX Unit="IN">-2.000000000000000</PinX>
+						<PinY Unit="IN_F">6.812490506881300</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="107" UniqueID="{DCB911C9-2A0B-4CBD-B4DE-5A51E49A1E58}" Name="Control transfer.107" NameU="Control transfer.107" Master="4">
+					<XForm>
+						<PinX Unit="IN">-2.000000000000000</PinX>
+						<PinY Unit="IN">7.937487500000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Cost" NameU="Cost">
+						<Value></Value>
+						<Label>Cost</Label>
+					</Prop>
+					<Prop ID="2" Name="Duration" NameU="Duration">
+						<Value></Value>
+						<Label>Duration</Label>
+					</Prop>
+					<Prop ID="3" Name="Resources" NameU="Resources">
+						<Value></Value>
+						<Label>Resources</Label>
+					</Prop>
+				</Shape>
+			</Shapes>
+		</Page>
+	</Pages>
+</VisioDocument>
